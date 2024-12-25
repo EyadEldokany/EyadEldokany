@@ -17,14 +17,13 @@ I’m Eyad Eldokany, a passionate AI enthusiast with expertise in Machine Learni
 ### 📫 Contact Me:
 
 [![Email](https://skillicons.dev/icons?i=gmail)](mailto:eyad.eldokany@gmail.com)
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/EyadEldokany)
-[![Phone](https://skillicons.dev/icons?i=phone)](tel:+201093599401)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/eyad-eldokany)
 
 ---
 
 ### 🛠️ Languages and Tools  
 
-[![My Skills](https://skillicons.dev/icons?i=python,sklearn,tensorflow,opencv,flask,pandas,java,cpp,mysqlhtml,css,js,php,arduino,powerbi)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,sklearn,tensorflow,opencv,flask,java,cpp,mysql,html,css,js,php,arduino,powerbi)](https://skillicons.dev)
 
 ---
 
