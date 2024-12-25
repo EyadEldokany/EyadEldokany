@@ -32,5 +32,6 @@ I’m Eyad Eldokany, a passionate AI enthusiast with expertise in Machine Learni
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=EyadEldokany&show_icons=true&theme=radical" alt="Eyad's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EyadEldokany&layout=compact&theme=radical" alt="Top Languages" />
+  
   ![GitHub Streak](https://streak-stats.demolab.com/?user=EyadEldokany&theme=radical)
 </div>  
