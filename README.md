@@ -14,17 +14,17 @@ I’m Eyad Eldokany, a passionate AI enthusiast with expertise in Machine Learni
 
 ---
 
-### 📫 Contact Me  
+### 📫 Contact Me:
 
-[<img align="center" alt="Email" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" />](mailto:eyad.eldokany@gmail.com)  
-[<img align="center" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://linkedin.com/in/EyadEldokany)  
-[<img align="center" alt="Phone" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Phone_font_awesome.svg" />](tel:+201093599401)  
+[![Email](https://skillicons.dev/icons?i=gmail)](mailto:eyad.eldokany@gmail.com)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/EyadEldokany)
+[![Phone](https://skillicons.dev/icons?i=phone)](tel:+201093599401)
 
 ---
 
 ### 🛠️ Languages and Tools  
 
-[![My Skills](https://skillicons.dev/icons?i=python,scikit-learn,tensorflow,opencv,nltk,html,css,js,php,arduino,java,cpp,mysql,powerbi,pandas)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,sklearn,tensorflow,opencv,flask,pandas,java,cpp,mysqlhtml,css,js,php,arduino,powerbi)](https://skillicons.dev)
 
 ---
 
